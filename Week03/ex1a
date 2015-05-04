@@ -1,0 +1,10 @@
+Equations for other junctions
+
+・V2
+-V1+3V2-0V3-V4 = 0
+
+・V3
+-V1-0V2+3V3-V4 = V_+
+
+・V4
+-V1-V2-V3+4V4 = 0
